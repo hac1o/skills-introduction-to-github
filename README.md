@@ -9,6 +9,8 @@
 
 # Introduction to GitHub
 
+New user logged in !
+
 _Get started using GitHub in less than an hour._
 
 </header>
